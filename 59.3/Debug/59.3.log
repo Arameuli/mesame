@@ -1,0 +1,13 @@
+﻿  59.3.cpp
+C:\Users\nikas\source\repos\59.3\Triangle.h(13,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Triangle.cpp
+C:\Users\nikas\source\repos\59.3\Triangle.h(15,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\nikas\source\repos\59.3\Triangle.h(15,16): error C2433: 'istream': 'friend' not permitted on data declarations
+C:\Users\nikas\source\repos\59.3\Triangle.h(15,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.3\Triangle.h(15,56): error C2238: unexpected token(s) preceding ';'
+C:\Users\nikas\source\repos\59.3\Triangle.h(16,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\nikas\source\repos\59.3\Triangle.h(16,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\nikas\source\repos\59.3\Triangle.h(16,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\nikas\source\repos\59.3\Triangle.h(16,57): error C2238: unexpected token(s) preceding ';'
+C:\Users\nikas\source\repos\59.3\Triangle.h(13,14): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
